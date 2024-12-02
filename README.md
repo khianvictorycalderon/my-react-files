@@ -8,4 +8,4 @@ Instead, you should copy the code and paste it in the App.tsx of your React fold
 ____________________________________________________________________
 
 For react templates, choose
-[Here].(https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj)
+[Here](https://drive.google.com/drive/folders/10EdR6J8s11DMEcTSv4Nv9Sx-NpUmkiKj).
